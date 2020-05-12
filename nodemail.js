@@ -11,8 +11,8 @@ var transport = nodemail.createTransport({
 })
 
 var mailOptions = {
-	from: 'anilkushwaha.ind@gmail.com',
-	to: 'anilkushwaha.ind@gmail.com',
+	from: 'type email here',
+	to: 'type email here',
 	subject: 'Node Js mail',
 	text: 'Auto generated mail'
 }
